@@ -6,6 +6,9 @@ Esta é uma aplicação base construída com Laravel, projetada para servir como
 
 - **Laravel 12**: A aplicação está utilizando a versão mais recente do Laravel.
 - **Laravel Sail**: Configuração de ambiente de desenvolvimento simplificada com Docker.
+- **Laravel Octane**: Desempenho otimizado com suporte a servidores de aplicação como Swoole e RoadRunner.
+- **FrankenPHP**: Integração com o servidor FrankenPHP para desempenho aprimorado.
+- **Laravel Telescope**: Ferramenta de depuração para monitorar e inspecionar sua aplicação.
 
 ## Como começar 🛠️
 
