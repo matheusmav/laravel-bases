@@ -1,0 +1,45 @@
+# Laravel Base Application 🚀
+
+Esta é uma aplicação base construída com Laravel, projetada para servir como ponto de partida para novos projetos. Ela inclui uma configuração inicial e algumas funcionalidades básicas para acelerar o desenvolvimento.
+
+## Funcionalidades ✨
+
+- **Laravel 12**: A aplicação está utilizando a versão mais recente do Laravel.
+- **Laravel Sail**: Configuração de ambiente de desenvolvimento simplificada com Docker.
+
+## Como começar 🛠️
+
+1. Clone o repositório:
+    ```sh
+    git clone https://github.com/seu-usuario/laravel-bases.git
+    ```
+
+2. Instale as dependências:
+    ```sh
+    cd laravel-bases
+    composer install
+    ```
+
+3. Configure o ambiente:
+    ```sh
+    cp .env.example .env
+    php artisan key:generate
+    ```
+
+4. Inicie o ambiente de desenvolvimento:
+    ```sh
+    ./vendor/bin/sail up
+    ```
+
+5. Acesse a aplicação no navegador:
+    ```
+    http://localhost
+    ```
+
+## Contribuindo 🤝
+
+Sinta-se à vontade para contribuir com melhorias e novas funcionalidades. Faça um fork do projeto, crie uma branch para suas alterações e envie um pull request.
+
+---
+
+Esperamos que esta base seja útil para seus projetos. Bons códigos! 💻
