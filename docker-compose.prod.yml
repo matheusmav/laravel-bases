@@ -1,0 +1,10 @@
+services:
+  laravel-base:
+    build:
+      context: .
+      dockerfile: Dockerfile.prod
+    # env_file:
+    #   - .env
+    entrypoint: ./entrypoint-prod.sh
+    # ports:
+    #   - "8000:8000"
