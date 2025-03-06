@@ -9,6 +9,12 @@ Esta é uma aplicação base construída com Laravel, projetada para servir como
 - **Laravel Octane**: Desempenho otimizado com suporte a servidores de aplicação como Swoole e RoadRunner.
 - **FrankenPHP**: Integração com o servidor FrankenPHP para desempenho aprimorado.
 - **Laravel Telescope**: Ferramenta de depuração para monitorar e inspecionar sua aplicação.
+- **Tradução para Português**: Suporte para tradução da aplicação para o idioma português.
+- **API**: Estrutura básica para criação de APIs RESTful com Laravel, incluindo autenticação e controle de acesso.
+- **Supervisor**: Gerenciamento de processos para garantir que os processos do Laravel estejam sempre em execução.
+- **Cron**: Configuração de tarefas agendadas para execução periódica de comandos do Laravel.
+- **Laravel Horizon**: Painel de controle para gerenciar filas de trabalho com Laravel.
+- **Laravel Pulse**: Ferramenta para monitoramento de métricas de desempenho em tempo real.
 
 ## Como começar 🛠️
 
